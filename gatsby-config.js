@@ -19,7 +19,7 @@ module.exports = {
   siteMetadata: {
     title: "JangB's blog",
     description: 'Be happy with DEV!',
-    siteUrl: 'https://jangb.netlify.app/',
+    siteUrl: 'https://jangpanpa.netlify.app/',
     image: '/images/share.jpg',
     menuLinks: [
       {
@@ -30,10 +30,10 @@ module.exports = {
       //   name: 'About',
       //   slug: '/about/',
       // },
-      {
-        name: 'Contact',
-        slug: '/contact/',
-      },
+      // {
+      //   name: 'Contact',
+      //   slug: '/contact/',
+      // },
     ],
     postsPerFirstPage: 7,
     postsPerPage: 6,
